@@ -1,0 +1,507 @@
+@media all and (max-width: 1000px) {
+
+    .header-top {
+      display: none;
+    }
+    .head-top {
+      padding: 15px 5px;
+      background-color:  rgb(218, 107, 100);
+      display: inline-block;
+      position: absolute;
+      right: 0;
+      top: 0;
+      font-size: 12px;
+      text-align: center;
+      height: 75px;
+    }
+    .head-top a {
+      color: white;
+    }
+    .fa-file-alt {
+      display: block;
+    }
+  
+    .start p {
+      font-size: 14px;
+    }
+    .start-top {
+      font-size: 12px!important;
+    }
+  
+    .nexth {
+      font-size: 12px;
+    }
+    .next p {
+      font-size: 14px;
+      padding-top: 1.5rem;
+    }
+  
+    .isalass {
+      font-size: 14px;
+    }
+    .isala h3 {
+      font-size: 16px;
+      margin-bottom: 2rem;
+    }
+  
+    .engine-bo {
+      padding: 1rem;
+    }
+    .skills {
+      flex-wrap: wrap;
+    }
+    .skill {
+      width: 25%;
+    }
+    .skill img {
+      height: 40px;
+    }
+  
+    .basic {
+      padding: 1rem;
+    }
+  
+    .basic .text {
+      font-size: 75%;
+    }
+  
+    .steps {
+      display: block;
+    }
+    .steps p {
+      font-size: 12px;
+    }
+    .step {
+      width: 100%;
+    }
+    .blue {
+      font-size: 14px;
+    }
+  
+    .side {
+      font-size: 14px;
+    }
+  
+    .main {
+      width: 80%;
+      margin: 0 auto;
+      text-align:center;
+    }
+    .mainimg, .mainimgg, .mainimggg {
+      height: 270px;
+    }
+  
+    .mains {
+      display: block;
+    }
+    .bottom {
+      font-size: 12px;
+    }
+  
+    .men {
+      font-size: 70%;
+    }
+  
+    .menbers {
+      margin-top: 6.4rem;
+      position: relative;
+    }
+  
+    .menber {
+      width: 100%;
+      padding: 3rem 1rem 0 1rem;
+      height: 260px;
+      font-size: 14px;
+      margin-bottom: 6rem;
+    }
+  
+    .menber img {
+      position: absolute;
+      top: -87px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 125px;
+    }
+  
+    .qa {
+      padding: 1rem 0 2rem 0;
+    }
+  
+    .qw span {
+      font-size: 14px;
+      padding: 19px 10px;
+    }
+  
+    .qaqa p {
+      font-size: 16px;
+    }
+  
+    .yes {
+      font-size: 70%;
+    }
+  
+    .cool img  {
+      width: 27%;
+    }
+  
+    .contented {
+      font-size: 70%;
+    }
+  
+    .contents {
+      width: 100%;
+      display: block;
+    }
+  .contents h4, .contents p {
+    font-size: 70%;
+  }
+  
+    .content {
+      margin-right: 0;
+    }
+  
+    .content:last-child {
+      height: 334px;
+    }
+  
+    .flow {
+      font-size: 70%;
+    }
+  
+    .flow h2 {
+      margin-bottom: 0;
+    }
+    .ht img, .under-right, .s {
+      display: none;
+    }
+    .cons {
+      font-weight: bold;
+      font-size: 1.2em;
+      display: flex;
+      width: 100%;
+      height: 20px;
+      margin-bottom: 1rem;
+      padding: 1rem;
+    }
+    .flow-under {
+      height: 80px;
+      margin-bottom: .3rem;
+    }
+    .cons img {
+      height: 35px;
+      margin-right: 1rem;
+    }
+    .cons p {
+      vertical-align: top;
+    }
+  
+    .cons br {
+      display: none;
+    }
+  
+    .why {
+      font-size: 70%;
+    }
+    .why h4 {
+      font-size: 18px;
+    }
+  
+    .gift {
+      font-size: 70%;
+    }
+  
+    .zeros {
+      flex-wrap: wrap;
+    }
+    .zerod {
+      padding: 0 4rem;
+    }
+  
+    .not {
+      font-size: .7em;
+    }
+    .notmd {
+      font-size: 12px;
+    }
+  
+    .ms {
+      font-size: .7em;
+      padding: 0;
+    }
+    .ms .container {
+      padding: 0;
+    }
+  
+    .comment {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      padding: .6rem;
+    }
+    .commentp {
+      margin-left: 0;
+      font-size: 14px;
+    }
+    .comment img {
+      padding-right: 0;
+      width: 100%!important;
+    }
+  
+    .form {
+      font-size: .7em;
+    }
+    .formation input, .formation textarea{
+      width: 100%;
+    }
+    .formation p {
+      width: 100%;
+    }
+  
+    .question {
+      font-size: .7em;
+      padding: 0;
+    }
+    .manys ul {
+      padding-left: 0;
+    }
+  
+    footer {
+      font-size: .5em;
+    }
+  
+    .ms h2 {
+      margin-top: 3rem;
+    }
+  
+    /* スクロール */
+    .show span {
+      top: 13px;
+      right: 20px;
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  }
+  
+  @media all and (max-width: 770px) {
+    .container {
+      padding: 0 12px;
+    }
+  
+    .zerod {
+      display: block;
+    }
+  
+    .zero {
+      display: none;
+    }
+  
+    .zero1 {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background-color: #FFF;
+      line-height: 30px;
+      color: #F7C23C;
+      float: left;
+      margin-right: 1rem;
+    }
+  
+    .zero2 {
+      margin-bottom: 3rem;
+    }
+    .zeros {
+      padding: 3rem 0 1rem 0;
+    }
+  
+    header {
+      height: auto;
+    }
+  
+    header img {
+      height: 40px;
+      width: auto;
+    }
+  
+    header p {
+      margin: 0;
+      padding-right: 3.6rem;
+      padding-top: 0;
+      font-size: 13px;
+      width: 100%;
+    }
+  
+    .fa-file-alt {
+      font-size: 26px;
+  }
+    .next .container  {
+      padding: 0;
+    }
+  
+    .head-top {
+      height: 100%;
+    }
+  
+    .top {
+      background-image: url(img/mainsp.jpg);
+      font-size: .7em;
+    }
+    .start-mg {
+      font-size: 10px!important;
+    }
+    .start-top {
+      padding: 15px 25px!important;
+    }
+  
+    .next h2 {
+      font-size: .5em;
+    }
+    .next p {
+      font-size: 14px;
+      padding-top: 0;
+    }
+  
+    .next {
+      height: 630px;
+    }
+  
+    .nexth h2 {
+      font-size: 16px;
+      padding: 0 1rem;
+    }
+    .nexth br {
+      display: block;
+    }
+  
+    .pp br {
+      display: none;
+    }
+    .engine-bo h3 {
+      font-weight: bold;
+    }
+  
+    .text h2 {
+      margin: 2rem 0;
+    }
+    .bottom {
+      padding: 2rem;
+    }
+  
+    .menber {
+      width: 100%;
+      padding: 2.5rem .6rem 3rem .6rem;
+      height: 260px;
+      font-size: 11px;
+      margin-bottom: 6rem;
+    }
+  
+    .qaqa p {
+      font-size: 14px;
+      font-weight: bold;
+    }
+  
+    .cool img {
+      width: 25%;
+      height: 25%;
+    }
+    .cool p {
+      margin-top: 0;
+    }
+  
+    .fis p {
+      margin-bottom: 2rem;
+    }
+  
+    .why p {
+      font-size: 11px;
+    }
+  
+    .head h2 {
+      font-size: 16px;
+    }
+  
+    .gift .container {
+      padding: 0;
+    }
+    .zerod {
+      padding: 1rem;
+    }
+  
+    .not {
+      padding: 1.5rem;
+    }
+    .notup h2 {
+      margin-bottom: 2rem;
+    }
+  
+    .notmd br {
+      display: block;
+    }
+  
+    .ms {
+      padding: 2rem 0;
+    }
+    .ms h2 {
+      margin-bottom: 2rem;
+    }
+  
+    .commentp ul {
+      padding-left: 1rem;
+    }
+  
+    .commentp li:last-child {
+      margin-bottom: 2rem;
+    }
+  
+    .sub {
+      font-size: 24px;
+    }
+  
+    .fass h2 {
+      font-size: 18px;
+      margin-top: 3rem;
+    }
+    .fa-envelope-open {
+      font-size: 24px;
+    }
+  
+    .btt {
+      margin-top: 4rem;
+    }
+  
+    .cl {
+      display: inline-block;
+    }
+  
+    .side {
+      font-size: 65%;
+    }
+  
+    /* スクロール */
+    .show span {
+      top: 14px;
+      right: 20px;
+    }
+  
+    .haha {
+      margin-right: 2rem;
+    }
+  
+    .answer {
+      padding-left: .6rem;
+    }
+  
+  
+  
+  
+  }
+  
